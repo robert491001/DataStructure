@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "cstdio": "c",
+        "string.h": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "algorithm": "c",
+        "memory": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "iostream": "c",
+        "istream": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "stdio.h": "c",
+        "tESTtWO.C": "cpp",
+        "math.h": "c"
+    }
+}
